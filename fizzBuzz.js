@@ -9,7 +9,7 @@ or "Buzz" for numbers divisible by only one of those).
 (This is actually an interview question that has been claimed
 to weed out a significant percentage of programmer candidates.
 So if you solved it, you’re now allowed to feel good about
-yourself.)
+yourself. )
 */
 
 function fizzBuzz() {
