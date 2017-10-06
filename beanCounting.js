@@ -33,5 +33,6 @@ function countChar(string, char) {
       count++;
     }
   }
-  return count;
+  return 
+  count;
 }
